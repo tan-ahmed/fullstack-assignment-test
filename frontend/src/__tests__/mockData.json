@@ -1,0 +1,305 @@
+{
+  "count": 10,
+  "books": [
+    {
+      "id": 3969,
+      "title": "Learning BeagleBone Python Programming",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784399702.jpg",
+      "author": "Alexander Hiam"
+    },
+    {
+      "id": 3970,
+      "title": "Learning Object-Oriented Programming",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785289637.jpg",
+      "author": "Gaston C. Hillar"
+    },
+    {
+      "id": 3971,
+      "title": "NGINX High Performance",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785281839.jpg",
+      "author": "Rahul Sharma"
+    },
+    {
+      "id": 3972,
+      "title": "Building Web Applications with Python and Neo4j",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783983988.jpg",
+      "author": "Sumit Gupta"
+    },
+    {
+      "id": 3973,
+      "title": "Gradle for Android",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783986828.jpg",
+      "author": "Kevin Pelgrims"
+    },
+    {
+      "id": 3974,
+      "title": "Mastering Julia",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783553310.jpg",
+      "author": "Malcolm Sherrington"
+    },
+    {
+      "id": 3975,
+      "title": "Spark Cookbook",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783987061.jpg",
+      "author": "Rishi Yadav"
+    },
+    {
+      "id": 3976,
+      "title": "Nginx Essentials",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785289538.jpg",
+      "author": "Valery Kholodkov"
+    },
+    {
+      "id": 3977,
+      "title": "Deploying Node.js",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783981403.jpg",
+      "author": "Sandro Pasquali"
+    },
+    {
+      "id": 3978,
+      "title": "Game Development with Swift",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783550531.jpg",
+      "author": "Stephen Haney"
+    },
+    {
+      "id": 3979,
+      "title": "WildFly Cookbook",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784392413.jpg",
+      "author": "Luigi Fugaro"
+    },
+    {
+      "id": 3980,
+      "title": "FreeSWITCH 1.6 Cookbook",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785280917.jpg",
+      "author": "Anthony Minessale II"
+    },
+    {
+      "id": 3981,
+      "title": "Moodle Administration Essentials",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784395476.jpg",
+      "author": "Gavin Henrick"
+    },
+    {
+      "id": 3982,
+      "title": "Lua Game Development Cookbook",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781849515504.jpg",
+      "author": "Mario Kasuba"
+    },
+    {
+      "id": 3983,
+      "title": "Arduino Electronics Blueprints",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784393601.jpg",
+      "author": "Don Wilcher"
+    },
+    {
+      "id": 3984,
+      "title": "Elasticsearch Blueprints",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783984923.jpg",
+      "author": "Vineeth Mohan"
+    },
+    {
+      "id": 3985,
+      "title": "Mastering JavaScript Promises",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783985500.jpg",
+      "author": "Muzzamil Hussain"
+    },
+    {
+      "id": 3986,
+      "title": "Salt Cookbook",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784399740.jpg",
+      "author": "Anirban Saha"
+    },
+    {
+      "id": 3987,
+      "title": "Android 5 Programming by Example",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785288449.jpg",
+      "author": "Kyle Mew"
+    },
+    {
+      "id": 3988,
+      "title": "Blueprints Visual Scripting for Unreal Engine",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785286018.jpg",
+      "author": "Brenden Sewell"
+    },
+    {
+      "id": 3989,
+      "title": "Learning Laravel's Eloquent",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784391584.jpg",
+      "author": "Francesco Malatesta"
+    },
+    {
+      "id": 3990,
+      "title": "Oracle GoldenGate 12c Implementer's Guide",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785280474.jpg",
+      "author": "John P Jeffries"
+    },
+    {
+      "id": 3991,
+      "title": "NLTK Essentials",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784396909.jpg",
+      "author": "Nitin Hardeniya"
+    },
+    {
+      "id": 3992,
+      "title": "Jenkins Essentials",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783553471.jpg",
+      "author": "Mitesh Soni"
+    },
+    {
+      "id": 3993,
+      "title": "Hadoop Backup and Recovery Solutions",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783289042.jpg",
+      "author": "Gaurav Barot"
+    },
+    {
+      "id": 3994,
+      "title": "Implementing Splunk - Second Edition",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784391607.jpg",
+      "author": "Vincent Bumgarner"
+    },
+    {
+      "id": 3995,
+      "title": "Learning Ionic",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783552603.jpg",
+      "author": "Arvind Ravulavaru"
+    },
+    {
+      "id": 3996,
+      "title": "OpenStack Cloud Security",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781782170983.jpg",
+      "author": "Fabio Alessandro Locati"
+    },
+    {
+      "id": 3997,
+      "title": "PhoneGap: Beginner's Guide - Third Edition",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784392284.jpg",
+      "author": "Purusothaman Ramanujam"
+    },
+    {
+      "id": 3998,
+      "title": "Cocos2d-x Game Development Blueprints",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783985265.jpg",
+      "author": "Karan Sequeira"
+    },
+    {
+      "id": 3999,
+      "title": "Test-Driven Development with Django",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785281167.jpg",
+      "author": "Kevin Harvey"
+    },
+    {
+      "id": 4000,
+      "title": "Learning Data Mining with Python",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784396053.jpg",
+      "author": "Robert Layton"
+    },
+    {
+      "id": 4001,
+      "title": "Programming ArcGIS with Python Cookbook - Second Edition",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785282898.jpg",
+      "author": "Eric Pimpler"
+    },
+    {
+      "id": 4002,
+      "title": "Mastering OpenCV Android Application Programming",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783988204.jpg",
+      "author": "Salil Kapur"
+    },
+    {
+      "id": 4003,
+      "title": "Blend for Visual Studio 2012 by Example: Beginner's Guide",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781849693882.jpg",
+      "author": "Abhishek Shukla"
+    },
+    {
+      "id": 4004,
+      "title": "Mastering Prezi for Business Presentations - Second Edition",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781782175094.jpg",
+      "author": "Russell Anderson-Williams"
+    },
+    {
+      "id": 4005,
+      "title": "Neo4j Graph Data Modeling",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784393441.jpg",
+      "author": "Mahesh Lal"
+    },
+    {
+      "id": 4006,
+      "title": "PostgreSQL Replication - Second Edition",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783550609.jpg",
+      "author": "Hans-Jurgen Schonig"
+    },
+    {
+      "id": 4007,
+      "title": "Internet of Things with Intel Galileo",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781782174585.jpg",
+      "author": "Miguel de Sousa"
+    },
+    {
+      "id": 4008,
+      "title": "Kali Linux Wireless Penetration Testing Essentials",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785280856.jpg",
+      "author": "Marco Alamanni"
+    },
+    {
+      "id": 4009,
+      "title": "Sass Essentials",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781782174301.jpg",
+      "author": "Alex Libby"
+    },
+    {
+      "id": 4010,
+      "title": "Wireshark Network Security",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784393335.jpg",
+      "author": "Piyush Verma"
+    },
+    {
+      "id": 4011,
+      "title": "Getting Started with Hazelcast - Second Edition",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785285332.jpg",
+      "author": "Mat Johns"
+    },
+    {
+      "id": 4012,
+      "title": "Microsoft Exchange Server PowerShell Cookbook - Third Edition",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785288074.jpg",
+      "author": "Jonas Andersson"
+    },
+    {
+      "id": 4013,
+      "title": "Programming Microsoft Dynamics™ NAV 2015",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784394202.jpg",
+      "author": "David Studebaker"
+    },
+    {
+      "id": 4014,
+      "title": "Practical Web Development",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781782175919.jpg",
+      "author": "Paul Wellens"
+    },
+    {
+      "id": 4015,
+      "title": "Blender 3D Cookbook",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783984886.jpg",
+      "author": "Enrico Valenza"
+    },
+    {
+      "id": 4016,
+      "title": "Android Wearable Programming",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781785280153.jpg",
+      "author": "Steven F. Daniel"
+    },
+    {
+      "id": 4017,
+      "title": "Mastering OpenStack",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781784395643.jpg",
+      "author": "Omar Khedher"
+    },
+    {
+      "id": 4018,
+      "title": "Mastering jQuery Mobile",
+      "cover": "https://www.perlego.com/books/RM_Books/packtpub/9781783559084.jpg",
+      "author": "Chip Lambert"
+    }
+  ]
+}
